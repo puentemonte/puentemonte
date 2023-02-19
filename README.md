@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ...
-  - A Social Network oriented to Books 📖
-  - A web based online multiplayer Game called La Boomba 💣
-  - A Narrative turn-based RPG based in Spain 👾
-  - A Period Tracker App for Android 📲
+  - 📖 A Social Network oriented to Books
+  - 💣 A web based online multiplayer Game called La Boomba 
+  - 👾 A Narrative turn-based RPG based in Spain 
+  - 📲 A Period Tracker App for Android 
 
 - 🌱 I’m currently learning JavaScript, Phaser, Spring, Android Development
 
