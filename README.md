@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ...
-  - 📖 A Social Network oriented to Books
+  - 📖 A Social Network oriented to Books ✅
   - 💣 A web based online multiplayer Game called La Boomba 
-  - 👾 A Narrative turn-based RPG based in Spain 
-  - 📲 A Period Tracker App for Android 
+  - 👾 A Narrative turn-based RPG based in Spain ✅
+  - 📲 A Period Tracker App for Android ✅
 
-- 🌱 I’m currently learning JavaScript, Phaser, Spring, Android Development
+- 🌱 I’m currently learning Data Structures and Algorithms in [LeetCode](https://leetcode.com/erikz/)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/erik-zubimendi/) 
 
