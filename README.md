@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
   - 
+- 😄 Pronouns: He / Him
 -->
-- 🌱 I’m currently learning Data Structures and Algorithms in [LeetCode](https://leetcode.com/erikz/)
+
+- 🌱 I’m currently working but when I do have some free time I'm building mock projects to learn React and Shader Art!
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/erik-zubimendi/) 
 
-- 😄 Pronouns: He / Him
+
