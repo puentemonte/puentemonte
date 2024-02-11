@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 -->
 
-- 🌱 I’m currently working and studying! I work @ itestra - a german software company. I'm currently studying a Master's Degree in Game Programming @ U-tad 😄
+- 🌱 I'm currently studying a Master's Degree in Game Programming @ U-tad 😄
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/erik-zubimendi/) 
