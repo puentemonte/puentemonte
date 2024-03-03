@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently studying a Master's Degree in Game Programming @ U-tad 😄
 
+- 🔭 Here's my [Portfolio!](https://puentemonte.github.io/)
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/erik-zubimendi/) 
