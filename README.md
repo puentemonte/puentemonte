@@ -1,6 +1,5 @@
 ### 🐱‍💻 About me 
 
-- swe
 - I like to code interesting stuff in my free time
 <!--
 **puentemonte/puentemonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
